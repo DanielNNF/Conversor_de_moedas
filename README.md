@@ -6,7 +6,7 @@
 
  [Canal do ProgramadorBR](https://www.youtube.com/watch?v=tbLziJchz48&t=1374s&ab_channel=ProgramadorBR.)
 
-<h3 align="center">
+
 <b>Conversor de Moedas<p><a href="C:\Users\Daniel\Desktop\Imagens\Prints"></a></p></b>
 
    
